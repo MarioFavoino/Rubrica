@@ -1,0 +1,31 @@
+Paolo Riccardo;Grasso;+393515967971;posta@paoloriccardograsso.it
+Francesco;De Luca;+393331234567;f.deluca@mailservice.it
+Sara;Santoro;+393889012345;s.santoro@postamail.it
+Marco;Vitale;+393456781234;marco.vitale@fastwebnet.it
+Elena;Palermo;+393907654321;elena.palermo@domino.it
+Antonio;Messina;+393601239876;a.messina@postaonline.it
+Valentina;Rizzo;+393342345678;valentina.rizzo@inbox.org
+Stefano;Lombardo;+393888776655;stefano.lombardo@service.it
+Alessia;Serra;+393456123789;alessia.serra@mymail.com
+Daniele;Parisi;+393209876543;daniele.parisi@post.it
+Giorgia;D'Angelo;+393601112233;giorgia.dangelo@mailbox.it
+Filippo;Sorrentino;+393889988776;f.sorrentino@email.it
+Simona;Valentini;+393456654321;simona.valentini@webmail.it
+Enrico;Martini;+393331122334;enrico.martini@postservice.it
+Beatrice;Moretti;+393888999000;b.moretti@fastmail.com
+Vincenzo;Amato;+393602030405;vincenzo.amato@mail.it
+Caterina;Gatti;+393457778899;caterina.gatti@inbox.it
+Gabriele;Pellegrini;+393339998887;g.pellegrini@posta.org
+Elisa;Fiore;+393888111222;elisa.fiore@servicemail.it
+Domenico;Mancini;+393456789123;d.mancini@postamail.com
+Roberta;Sanna;+393601234567;roberta.sanna@mail.it
+Luigi;Ferri;+393889001122;luigi.ferri@emailservice.it
+Monica;Rinaldi;+393450987654;monica.rinaldi@webpost.it
+Massimo;Leone;+393331234567;massimo.leone@postbox.it
+Camilla;Longo;+393888765432;camilla.longo@mymail.it
+Gianluca;Gentile;+393601122334;gianluca.gentile@mailservice.com
+Aurora;Marchetti;+393456789456;aurora.marchetti@posta.it
+Alberto;Testa;+393889678901;alberto.testa@fastpost.it
+Claudia;Donati;+393339876543;claudia.donati@email.it
+Pietro;Sala;+393888123456;pietro.sala@postamail.org
+Raffaella;Fabbri;+393601010203;raffaella.fabbri@servicemail.com
